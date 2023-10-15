@@ -1,5 +1,5 @@
 {
-    "name": "waavi/translation",
+    "name": "yehia-abdullah/fork/waavi/translation",
     "description": "A Translation package for Laravel 5 with database and cache support",
     "keywords": [
         "waavi",
@@ -18,7 +18,7 @@
         }
     ],
     "require": {
-        "laravel/framework": "~6.0|~7.0",
+        "laravel/framework": "~6.0|~7.0|~8.0",
         "doctrine/dbal": "^2.5"
     },
     "require-dev": {
